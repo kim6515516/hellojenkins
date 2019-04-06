@@ -12,6 +12,6 @@ hooks:
         AllicationStart:
                 - location: scripts/start.sh
                   timeout: 10
-        ValidateService:
-                - location: scripts/validate.sh
+        # ValidateService:
+        #         - location: scripts/validate.sh
 
