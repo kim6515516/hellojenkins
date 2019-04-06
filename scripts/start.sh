@@ -1,1 +1,3 @@
-start helloworld
+#!/bin/sh
+
+sudo start helloworld
